@@ -1,1 +1,1 @@
-# HTML-CSS-JavaScript-course
+# Course.HTML-CSS-JavaScript
