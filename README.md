@@ -1,1 +1,1 @@
-# web_dev_coursera
+# HTML-CSS-JavaScript-course
